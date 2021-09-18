@@ -4,7 +4,7 @@ Information System Department of Guwahati Refinery is ISO 27001:2013 Certified. 
 
 The movement of each person in and out of department premise can be monitored via the security admin panel in a dashboard. The movement of each employee can be tracked and recorded safely.
 
-![about_page](https://user-images.githubusercontent.com/77850791/131459857-96b25c74-a5f9-4272-bdd8-1fed68c528d6.png)
+![about_page](https://user-images.githubusercontent.com/77850791/133883015-65fb52b4-3a42-4408-9f71-434dee71e7dd.png)
 
 ![contact](https://user-images.githubusercontent.com/77850791/131459926-a07424e9-bc7c-47ed-a528-321d488f6f35.png)
 
